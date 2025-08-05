@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Spotistats**
 
+- 🌱 I'm currently learning DevOps, API security, system design and UI/UX Best Practices.
+
 - 💬 Ask me about **Full Stack Development, Web Design, Music, Cricket**
 
 - 📫 How to reach me **ansh.shetty.22@gmail.com**
