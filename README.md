@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
 <h3 align="center">An eager to learn developer from Mumbai, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shetty-ansh" alt="shetty-ansh" /></a> </p>
 
 - 🔭 I’m currently working on **Spotistat**
 
