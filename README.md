@@ -2,7 +2,7 @@
 <h3 align="center">An eager to learn developer from Mumbai, India</h3>
 
 
-- 🔭 I’m currently working on **Spotistats**
+- 🔭 I’m currently working on **PublicPulse**, a platform to report & track civic issues easily
 
 - 🌱 I'm currently learning DevOps, API security, system design and UI/UX Best Practices.
 
